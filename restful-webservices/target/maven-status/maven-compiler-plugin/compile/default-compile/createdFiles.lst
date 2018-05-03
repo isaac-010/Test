@@ -1,0 +1,4 @@
+com\isaac\restimplementation\restfulwebservices\customer\CustomerDaoService.class
+com\isaac\restimplementation\restfulwebservices\customer\CustomerResource.class
+com\isaac\restimplementation\restfulwebservices\RestfulWebservicesApplication.class
+com\isaac\restimplementation\restfulwebservices\customer\Customer.class
